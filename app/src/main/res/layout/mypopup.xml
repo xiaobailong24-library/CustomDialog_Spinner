@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:id="@+id/linear_mypopup"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:background="@color/lightBrown"
+              android:gravity="center_vertical|center_horizontal"
+              android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:paddingTop="10dip">
+
+        <ImageView
+            android:id="@+id/dialog_title_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/smile"/>
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_marginLeft="10dip"
+            android:layout_toRightOf="@id/dialog_title_image"
+            android:text="@string/str_dialog_title"
+            android:textColor="#000000"
+            android:textSize="30sp"/>
+
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="1dip"
+        android:layout_marginTop="5dip"
+        android:background="@drawable/lins"/>
+
+    <LinearLayout
+        android:id="@+id/seladd_linear1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="5dp">
+
+        <Spinner
+            android:id="@+id/sel_spinner1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:entries="@array/str_spinner1"
+            android:prompt="@string/spinner_1_name"
+            android:spinnerMode="dialog"/>
+
+        <Spinner
+            android:id="@+id/sel_spinner2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:entries="@array/str_spinner2_weihai"
+            android:prompt="@string/spinner_2_name"
+            android:spinnerMode="dialog"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/seladd_linear2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="5dp">
+
+        <Spinner
+            android:id="@+id/sel_spinner3"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:entries="@array/str_spinner3_weihai_rongcheng"
+            android:prompt="@string/spinner_3_name"
+            android:spinnerMode="dialog"/>
+
+        <Spinner
+            android:id="@+id/sel_spinner4"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:entries="@array/str_spinner4_weihai_rongcheng_kaifaqu"
+            android:prompt="@string/spinner_4_name"
+            android:spinnerMode="dialog"/>
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="bottom|center_horizontal"
+        android:paddingBottom="10dip"
+        android:paddingTop="10dip">
+
+        <Button
+            android:id="@+id/dialog_button_cancel"
+            android:layout_width="100dip"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:text="取消"/>
+
+        <Button
+            android:id="@+id/dialog_button_ok"
+            android:layout_width="100dip"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="35dip"
+            android:layout_toRightOf="@id/dialog_button_cancel"
+            android:text="确定"/>
+    </RelativeLayout>
+</LinearLayout>
