@@ -1,3 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="H:\Android\Win7\ASworkspace\CustomDialog_Spinner\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="H:\Android\Win7\ASworkspace\CustomDialog_Spinner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.3.0_e92133a62b46757f99915d48ac153d3f4172c40b\classes.dex" />
+    </item>
+    <item
+        jar="H:\Android\Win7\ASworkspace\CustomDialog_Spinner\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="H:\Android\Win7\ASworkspace\CustomDialog_Spinner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_ad93850d8c42be60428677c97b6c53cd84d5efcf\classes.dex" />
+    </item>
+    <item
+        jar="H:\Android\Win7\ASworkspace\CustomDialog_Spinner\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="H:\Android\Win7\ASworkspace\CustomDialog_Spinner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_c53813f4e6454f3bc858547836efaf8afa3a7de7\classes.dex" />
+    </item>
+    <item
+        jar="H:\Android\Win7\ASworkspace\CustomDialog_Spinner\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="H:\Android\Win7\ASworkspace\CustomDialog_Spinner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_e3436f4fcdc6fdba0405ba452e01644d710bf4d4\classes.dex" />
+    </item>
+    <item
+        jar="H:\Android\Win7\ASworkspace\CustomDialog_Spinner\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="98fb58629fec39091f9be2f8c998d744419fc2bf">
+        <dex dex="H:\Android\Win7\ASworkspace\CustomDialog_Spinner\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d6d579da73203321a65b1b2cd987ebaeacbb74c4\classes.dex" />
+    </item>
+    <item
+        jar="E:\ProgramFiles\Android\AS_sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="H:\Android\Win7\ASworkspace\CustomDialog_Spinner\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_2ba804cc108aa0f6d7888ea560a7a751d05ad747\classes.dex" />
+    </item>
+    <item
+        jar="H:\Android\Win7\ASworkspace\CustomDialog_Spinner\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="H:\Android\Win7\ASworkspace\CustomDialog_Spinner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.3.0_324c6107108e95f332b5feb6276c5d373a40c042\classes.dex" />
+    </item>
+    <item
+        jar="H:\Android\Win7\ASworkspace\CustomDialog_Spinner\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="H:\Android\Win7\ASworkspace\CustomDialog_Spinner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_470ef61ed305e4362b5f36fbe04a2d5badd6b207\classes.dex" />
+    </item>
+    <item
+        jar="H:\Android\Win7\ASworkspace\CustomDialog_Spinner\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="H:\Android\Win7\ASworkspace\CustomDialog_Spinner\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_3f6ac604e5a4c54a05b3405253ecedf9f6410537\classes.dex" />
+    </item>
+    <item
+        jar="H:\Android\Win7\ASworkspace\CustomDialog_Spinner\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="89bae4c4fe73454e69c42ca95705648a05bd63df">
+        <dex dex="H:\Android\Win7\ASworkspace\CustomDialog_Spinner\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d770f3a754bd0008b1ad33d0a28e2c4b0feb12c7\classes.dex" />
+    </item>
+    <item
+        jar="H:\Android\Win7\ASworkspace\CustomDialog_Spinner\app\build\intermediates\exploded-aar\com.yarolegovich\lovely-dialog\1.0.3\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6296e51c4ee7e3e9cda231eb8f03c780a1f5760e">
+        <dex dex="H:\Android\Win7\ASworkspace\CustomDialog_Spinner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.yarolegovich-lovely-dialog-1.0.3_b033b883ae09f38b422a396dcbc9105b6d649d26\classes.dex" />
+    </item>
+
+</items>
